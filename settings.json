@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Survival-CBsD.aternos.me:63232",
+    "port": 63232,
     "version": "",
     "try-creative": false
   },
